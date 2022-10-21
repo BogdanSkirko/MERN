@@ -20,7 +20,6 @@ const UserItem = (props) => {
           </div>
         </Link>
       </Card>
-      ;
     </li>
   );
 };
