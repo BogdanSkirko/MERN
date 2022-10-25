@@ -1,5 +1,7 @@
 import { useParams } from "react-router-dom";
+import Button from "../../shared/components/FormElements/Button";
 import PlaceList from "../components/PlaceList";
+
 const DUMMY_PLACES = [
   {
     id: "p1",
@@ -16,7 +18,7 @@ const DUMMY_PLACES = [
   },
   {
     id: "p2",
-    title: "EMpire State Building",
+    title: "EMpire State Buildingcweqewqccewq",
     descriptions: "One of the most famouse scy scrapers in the world",
     imageUrl:
       "https://images.adsttc.com/media/images/5841/5a74/e58e/ce8f/db00/01f1/newsletter/Empire_State_Building_15_Dec_2005.jpg?1480677994",
